@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ECSDKDemo_OC/Class/View/Chat/ChatView/ChatViewController.m"
+            timestampString = "469706079.822005"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1567"
+            endingLineNumber = "1567"
+            landmarkName = "-recordButtonTouchDown"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ChatViewController recordButtonTouchDown]"
+                  moduleName = "pirate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiaoli/Downloads/YTX_iOS_IM_Demo_v5.1.7r%202/ECSDKDemo_OC/ECSDKDemo_OC/Class/View/Chat/ChatView/ChatViewController.m"
+                  timestampString = "469935052.097973"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1567"
+                  endingLineNumber = "1567"
+                  offsetFromSymbolStart = "1117">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__43-[ChatViewController recordButtonTouchDown]_block_invoke"
+                  moduleName = "pirate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiaoli/Downloads/YTX_iOS_IM_Demo_v5.1.7r%202/ECSDKDemo_OC/ECSDKDemo_OC/Class/View/Chat/ChatView/ChatViewController.m"
+                  timestampString = "469935052.103211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1567"
+                  endingLineNumber = "1567"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ECSDKDemo_OC/Class/View/LoginAndMain/LoginViewController.m"
+            timestampString = "469613635.956959"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "-nextBtnClicked"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
